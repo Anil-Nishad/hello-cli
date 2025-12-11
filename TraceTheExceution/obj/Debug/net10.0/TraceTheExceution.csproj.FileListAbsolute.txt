@@ -1,0 +1,14 @@
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\bin\Debug\net10.0\TraceTheExceution.exe
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\bin\Debug\net10.0\TraceTheExceution.deps.json
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\bin\Debug\net10.0\TraceTheExceution.runtimeconfig.json
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\bin\Debug\net10.0\TraceTheExceution.dll
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\bin\Debug\net10.0\TraceTheExceution.pdb
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.AssemblyInfoInputs.cache
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.AssemblyInfo.cs
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.csproj.CoreCompileInputs.cache
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.dll
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\refint\TraceTheExceution.dll
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.pdb
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\TraceTheExceution.genruntimeconfig.cache
+C:\Users\delhi\Downloads\hello-cli\TraceTheExceution\obj\Debug\net10.0\ref\TraceTheExceution.dll

@@ -1,0 +1,14 @@
+C:\Users\delhi\Downloads\hello-cli\Hello\bin\Debug\net10.0\Hello.exe
+C:\Users\delhi\Downloads\hello-cli\Hello\bin\Debug\net10.0\Hello.deps.json
+C:\Users\delhi\Downloads\hello-cli\Hello\bin\Debug\net10.0\Hello.runtimeconfig.json
+C:\Users\delhi\Downloads\hello-cli\Hello\bin\Debug\net10.0\Hello.dll
+C:\Users\delhi\Downloads\hello-cli\Hello\bin\Debug\net10.0\Hello.pdb
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.AssemblyInfoInputs.cache
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.AssemblyInfo.cs
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.dll
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\refint\Hello.dll
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.pdb
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\Hello.genruntimeconfig.cache
+C:\Users\delhi\Downloads\hello-cli\Hello\obj\Debug\net10.0\ref\Hello.dll
