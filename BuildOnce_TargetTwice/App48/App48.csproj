@@ -1,0 +1,9 @@
+﻿<!-- App48/App48.csproj -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="..\MyLib\MyLib.csproj" /></ItemGroup>
+</Project>
